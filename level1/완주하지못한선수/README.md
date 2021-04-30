@@ -27,5 +27,7 @@
 | ["marina", "josipa", "nikola", "vinko", "filipa"] | ["josipa", "filipa", "marina", "nikola"] | "vinko"  |
 | ["mislav", "stanko", "mislav", "ana"]             | ["stanko", "ana", "mislav"]              | "mislav" |
 
+***
+
 [출처](http://hsin.hr/coci/archive/2014_2015/contest2_tasks.pdf)
 
